@@ -1,16 +1,13 @@
 # pokedex_flutter
 
-A new Flutter project.
+The present project is to create a pokedex application from Flutter in its version 1.22.5 using the clean code structure.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The objective of this project is to create from the following design found on Behance, consuming the Pokemon API
 
-A few resources to get you started if this is your first Flutter project:
+Some resources to get you started:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Pokemon App Design](https://www.behance.net/gallery/113562309/Pokemon-Pokedex-Website-Redesign-Concept?tracking_source=search_projects%7Capps%20pokedex)
+- [Poke API](https://pokeapi.co/)
+- [Tutorials, learning](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
